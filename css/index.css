@@ -1,0 +1,19 @@
+html{
+font-size: 14 px;
+}
+
+body{
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+}
+
+a{color:rgb(0, 17, 255)}
+a:hover, a:active{color:rgb(0, 11, 158)}
+
+table, tr, th, td, caption {
+    border: 1px solid #000000;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    text-align: center;
+}
